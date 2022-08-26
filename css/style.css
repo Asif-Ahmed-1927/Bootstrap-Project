@@ -14,3 +14,24 @@ body{
 .about-container{
     background-color: #008080 ;
 }
+.education-container{
+    background-color:#EEEEEE ;
+}
+
+.bg-red{
+    background-color: #FBB57F;
+}
+
+.bg-red-colour{
+    color: #FBB57F;
+}
+.font-weight-bolder{
+    font-weight: bolder;
+}
+.circle{
+    background-color: #FBB57F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+}

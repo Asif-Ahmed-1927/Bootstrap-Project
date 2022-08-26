@@ -25,6 +25,10 @@ body{
     background-color: #FBB57F;
 }
 
+.bg-red:hover{
+    color: black!important;
+}
+
 .bg-red-colour{
     color: #FBB57F;
 }
@@ -48,4 +52,18 @@ body{
 
 .inner-form{
     background-color: #585F73;
+}
+
+.footer{
+    background-color:#0ddfee ;
+}
+
+.circle-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
 }
